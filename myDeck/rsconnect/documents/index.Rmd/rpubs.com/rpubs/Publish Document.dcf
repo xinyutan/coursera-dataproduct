@@ -1,7 +1,0 @@
-name: Publish Document
-account: rpubs
-server: rpubs.com
-bundleId:
-        https://api.rpubs.com/api/v1/document/104544/a99627aa709a4c709dac80dc6ca48b83
-url: http://rpubs.com/xinyutan/104544
-when: 1440358143.02401
